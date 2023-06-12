@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{A8604B7F-9140-A80F-5506-9B725D103C0C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/EnemySoldier.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AIShooter.cs" Line="20" Column="54" />
+      <File FileName="Assets/Scripts/Attack2.cs" />
+      <File FileName="Assets/Scripts/BulletScript.cs" />
+      <File FileName="Assets/Scripts/CameraScript.cs" />
+      <File FileName="Assets/Scripts/EnemyHealth2.cs" />
+      <File FileName="Assets/Scripts/Health.cs" Line="26" Column="44" />
+      <File FileName="Assets/Scripts/EnemySoldier.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NewAttack.cs" />
+      <File FileName="Assets/Scripts/NewGame.cs" />
+      <File FileName="Assets/Scripts/Placement.cs" />
+      <File FileName="Assets/Scripts/Scoreboard.cs" />
+      <File FileName="Assets/Scripts/ShootParticles.cs" />
+      <File FileName="Assets/Scripts/SoldierScript.cs" />
+      <File FileName="Assets/Scripts/TeamSoldier.cs" />
+      <File FileName="Assets/Scripts/TimeLimit.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="880c0bd5-78f8-4af1-9a93-8f802dd22595" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

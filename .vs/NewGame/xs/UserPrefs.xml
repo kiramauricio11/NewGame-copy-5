@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{CB4A1A76-908A-6495-CA20-A4E9816EA59F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NewAttack.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EnemyHealth2.cs" Line="52" Column="18" />
+      <File FileName="Assets/Scripts/Attack2.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Attack.cs" Line="71" Column="35" />
+      <File FileName="Assets/Scripts/Attack1.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemySoldier.cs" Line="35" Column="2" />
+      <File FileName="Assets/Scripts/AIShooter.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Health.cs" Line="37" Column="10" />
+      <File FileName="Assets/Scripts/Scoreboard.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/EnemyShootParticles.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SoldierScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ShootParticles.cs" Line="12" Column="38" />
+      <File FileName="Assets/Scripts/Shootscript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BulletScript.cs" Line="8" Column="1" />
+      <File FileName="Assets/Scripts/CameraScript.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/TimeLimit.cs" Line="20" Column="7" />
+      <File FileName="Assets/Scripts/NewAttack.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="6c45af78-60f4-453a-9d54-dddb51522c70" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

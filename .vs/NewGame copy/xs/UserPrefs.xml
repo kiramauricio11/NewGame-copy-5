@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E1EBA8E8-ACD2-CB00-AAAE-FE6452488D72}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="22b20132-cff6-4c03-9a41-e9eb36f4a345" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Health.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TimeLimit.cs" Line="29" Column="9" />
+      <File FileName="Assets/Scripts/CameraScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NewAttack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Attack.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Attack1.cs" />
+      <File FileName="Assets/Scripts/Attack2.cs" />
+      <File FileName="Assets/Scripts/Health.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/SoldierScript.cs" Line="74" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

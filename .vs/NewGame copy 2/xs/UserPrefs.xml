@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{ECA81702-A9CC-9A16-B8D4-4D627491B97B}|">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b0fe3475-8020-45ab-a8fa-3a8b6f0074e8" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/TimeLimit.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SoldierScript.cs" />
+      <File FileName="Assets/Scripts/TeamSoldier.cs" />
+      <File FileName="Assets/Scripts/EnemySoldier.cs" />
+      <File FileName="Assets/Scripts/TimeLimit.cs" Line="61" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
